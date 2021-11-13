@@ -1,0 +1,94 @@
+alldir.txt
+CPM 2.2.02 configured disk.H8D
+CPM 80 TPI BIOS and FORMAT80 Backup.H8D
+CPM 80 TPI BIOS and FORMAT80.H8D
+CPM BASCOM BASLIB L80.H8D
+CPM Bootable JRT Pascal drive 0.H8D
+CPM dBase II Disk A.H8D
+CPM EDDIE.H8D
+CPM H89 Boot Disk.H8D
+CPM H89 Wordstar.H8D
+CPM JRT Pascal Disk 1 Tracks 9 and 16 BAD.H8D
+CPM JRT Pascal Disk 1.H8D
+CPM JRT Pascal Disk 2.H8D
+CPM JRT Pascal Disk 3.H8D
+CPM Mailmerge for Wordstar.H8D
+CPM MBASIC NRA HDOSCPM.H8D
+CPM MBASIC OBASIC HDOSCPM.H8D
+CPM Supercalc Utilities.H8D
+CPM Supercalc.H8D
+CPM Wordstar 3.0 Master Disk A.H8D
+CPM Wordstar 3.0 Master Disk B.H8D
+CPM Wordstar Patches.H8D
+CPM Wordstar Selectric with Spell.H8D
+CPM Wordstar.H8D
+CPM ZORK2 CANOE.BAS.H8D
+HDOS 2.0 Device Drivers.H8D
+HDOS 2.0 Operating System.H8D
+HDOS 2.0 Software Tools.H8D
+HDOS Adventure Bootable.H8D
+HDOS Adventure with saved games.H8D
+HDOS Assembly Programming Ver. 1.6.H8D
+HDOS BASIC Games.H8D
+HDOS BASIC Programs.H8D
+HDOS Basic to Fortran Conversion.H8D
+HDOS boot disk with MBASIC PAGED etc.H8D
+HDOS Catalog of HDOS Disks.H8D
+HDOS Clock ASM code Corrupt GRT.H8D
+HDOS CRASH.H8D
+HDOS DND for H9 Track 28 BAD.H8D
+HDOS DND Master Disk.H8D
+HDOS DND.H8D
+HDOS DVD Sources and Utilities.H8D
+HDOS Ed A Sketch Corrupt GRT.H8D
+HDOS Ed A Sketch track 0 BAD.H8D
+HDOS Eliza.H8D
+HDOS Experimental Games Track 19 BAD.H8D
+HDOS Football Records and Programs.H8D
+HDOS FORTRAN Adventure Games No. 1.H8D
+HDOS FORTRAN and PAGED.H8D
+HDOS FORTRAN MACRO 80 Sample Programs.H8D
+HDOS Games and Basic Programs Backup.H8D
+HDOS Games Invaders Munchkin Breakout Flippem Thief.H8D
+HDOS Games Maze Race Froggs.h8d
+HDOS H89 DND Track 0 BAD.H8D
+HDOS HUG 885-1089 MACRO CTOH HTERM etc.H8D
+HDOS HUG Device Drivers 885-1019.H8D
+HDOS HUG ED 885-1022.H8D
+HDOS Intro to Basic Programming Disk A.H8D
+HDOS Intro to Basic Programming Disk B.H8D
+HDOS Kids BASIC Programs.H8D
+HDOS L80 M80 LIB CREF80.H8D
+HDOS Line Alarm Assembly code.H8D
+HDOS MBASIC 4.7 plus M80 and CREF80 Nov. 1979.H8D
+HDOS MBASIC boot disk track 6 BAD.H8D
+hDOS MBASIC Compiler and REL file.H8D
+HDOS MBASIC Compiler Disk 1.H8D
+HDOS MBASIC Compiler Disk 2.H8D
+HDOS Microsoft BASCOM 890-291-2 Disk 1.H8D
+HDOS Microsoft BASCOM 890-291-2 Disk 2.H8D
+HDOS Microsoft MACRO-80 and FORLIB.REL.H8D
+HDOS MODEM programs etc.H8D
+HDOS MSBASIC V4.8.2.H8D
+HDOS Munchkin and Invaders.H8D
+HDOS OLD DVDs without headers.H8D
+HDOS PERSONAL INFO General Backup BASIC and more.H8D
+HDOS PERSONAL INFO General BASIC and more.H8D
+HDOS RUNOFF Disk 1 of 2.H8D
+HDOS RUNOFF Disk 2 of 2.H8D
+HDOS Selectric Typewriter DVD.H8D
+HDOS SPELL and Dictionary BAD tracks 35 and 36.H8D
+HDOS SPELL.H8D
+HDOS spool n go and mychess.H8D
+HDOS Super Sysmod 2.h8d
+HDOS SW toolworks disk cataloging.H8D
+HDOS Thief Flippem Blockout TEG-II Software.H8D
+HDOS TI-800 printer device driver.H8D
+HDOS Utility Programs.H8D
+HDOS Various BASIC pgms Gerry disk 1 track 9 BAD.H8D
+HDOS Various BASIC pgms Gerry disk 2.H8D
+HDOS Various BASIC pgms Gerry disk 3 GRT corrupt.H8D
+HDOS Version 1.5 Distribution.H8D
+HDOS Version 1.6 Distribution.H8D
+HDOS Version 2 Assembly.H8D
+HDOS Z19 Z89 Diagnostic Test Disk.H8D
