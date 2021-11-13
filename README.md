@@ -1,4 +1,5 @@
 # H89Emulator
+![H89 Computer](https://github.com/lesbird/H89Emulator/blob/main/H89.jpg)
 #### Heathkit H89 emulator
 <pre>
 Z80 based home computer with built-in Heathkit H19 terminal
